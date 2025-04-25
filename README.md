@@ -2,7 +2,7 @@
 
 🚀 *Empowering Innovation from Rural Karnataka*
 
-CDevXGen Technologies (OPC) Private Limited is a forward-thinking IT startup founded in September 2024 and headquartered in Tumkur, Karnataka, India.  
+CDevXGen Technologies Private Limited is a forward-thinking IT startup founded in September 2024 and headquartered in Tumkur, Karnataka, India.  
 Our mission is to bridge the digital divide by delivering cutting-edge software solutions from the heart of rural India.
 
 ---
