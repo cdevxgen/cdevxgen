@@ -12,8 +12,8 @@ Our mission is to bridge the digital divide by delivering cutting-edge software 
 - **Company Name:** CDevXGen Technologies (OPC) Private Limited
 - **Founded:** September 23, 2024
 - **Founder & Director:** Harsha H M
-- **Registered Address:** Manjunath S/O Thimmappa, Dhosahalli, Dandinashivara, Turuvekere, Karnataka, 572227
 - **CIN:** U62090KA2024OPC193189
+- **Registered Address:** Manjunath S/O Thimmappa, Dhosahalli, Dandinashivara, Turuvekere, Karnataka, 572227
 
 ---
 
