@@ -32,7 +32,7 @@ We specialize in delivering comprehensive software solutions, including:
 
 - **LinkedIn:** [CDevXGen Technologies](https://www.linkedin.com/company/cdevxgen-technologies)
 - **Instagram:** [@cdevxgen](https://www.instagram.com/cdevxgen/)
-- **Email:** cdevxgen013@gmail.com
+- **Email:** cdevng2@gmail.com
 - **Phone:** +91-8277052213
 
 ---
